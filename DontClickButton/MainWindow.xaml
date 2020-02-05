@@ -1,0 +1,21 @@
+﻿<Window x:Name="_myWindow" x:Class="DontClickButton.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DontClickButton"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid x:Name="_myGrid">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="147*"/>
+            <ColumnDefinition Width="13*"/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="buttonClick" HorizontalAlignment="Center" VerticalAlignment="Center" Height="68" Width="116" MouseEnter="buttonClick_MouseEnter" Click="buttonClick_Click">
+            <TextBlock>
+                Ahoj klikni me
+            </TextBlock>
+        </Button>
+
+    </Grid>
+</Window>

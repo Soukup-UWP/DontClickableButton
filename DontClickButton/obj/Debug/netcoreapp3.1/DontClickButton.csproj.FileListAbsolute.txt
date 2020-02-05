@@ -1,0 +1,16 @@
+C:\Users\josep\OneDrive\Desktop\DontClickButton\bin\Debug\netcoreapp3.1\DontClickButton.exe
+C:\Users\josep\OneDrive\Desktop\DontClickButton\bin\Debug\netcoreapp3.1\DontClickButton.deps.json
+C:\Users\josep\OneDrive\Desktop\DontClickButton\bin\Debug\netcoreapp3.1\DontClickButton.runtimeconfig.json
+C:\Users\josep\OneDrive\Desktop\DontClickButton\bin\Debug\netcoreapp3.1\DontClickButton.runtimeconfig.dev.json
+C:\Users\josep\OneDrive\Desktop\DontClickButton\bin\Debug\netcoreapp3.1\DontClickButton.dll
+C:\Users\josep\OneDrive\Desktop\DontClickButton\bin\Debug\netcoreapp3.1\DontClickButton.pdb
+C:\Users\josep\OneDrive\Desktop\DontClickButton\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\josep\OneDrive\Desktop\DontClickButton\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\josep\OneDrive\Desktop\DontClickButton\obj\Debug\netcoreapp3.1\DontClickButton_MarkupCompile.cache
+C:\Users\josep\OneDrive\Desktop\DontClickButton\obj\Debug\netcoreapp3.1\DontClickButton_MarkupCompile.lref
+C:\Users\josep\OneDrive\Desktop\DontClickButton\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\josep\OneDrive\Desktop\DontClickButton\obj\Debug\netcoreapp3.1\DontClickButton.g.resources
+C:\Users\josep\OneDrive\Desktop\DontClickButton\obj\Debug\netcoreapp3.1\DontClickButton.AssemblyInfoInputs.cache
+C:\Users\josep\OneDrive\Desktop\DontClickButton\obj\Debug\netcoreapp3.1\DontClickButton.AssemblyInfo.cs
+C:\Users\josep\OneDrive\Desktop\DontClickButton\obj\Debug\netcoreapp3.1\DontClickButton.dll
+C:\Users\josep\OneDrive\Desktop\DontClickButton\obj\Debug\netcoreapp3.1\DontClickButton.pdb
